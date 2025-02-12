@@ -1,8 +1,8 @@
 1-line
 2-line
-3-line
+3-line  changed in first cloned repo
 4-line      second change
-5-line
+5-line   changed in first cloned repo
 6-line  second change
 7-line
 8-line change 
