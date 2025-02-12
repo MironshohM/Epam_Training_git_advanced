@@ -2,9 +2,13 @@
 2-line
 3-line
 4-line
-5-line different
+5-line different git_1
 6-line
 7-line
-8-line    different
+8-line    different git_1
+5-line  change git_2
+6-line
+7-line
+8-line change git_2
 9-line
 10-line
