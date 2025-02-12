@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 1-line
 2-line
 3-line  changed in first cloned repo
+=======
+1-line  in second cloned repo
+2-line  in second cloned repo
+3-line
+>>>>>>> 728482965a2379b95c0ce9fd12aa742c84537a64
 4-line      second change
 5-line   changed in first cloned repo
 6-line  second change
